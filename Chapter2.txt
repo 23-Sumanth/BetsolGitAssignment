@@ -1,3 +1,3 @@
-Hi, Good Afternoon!
-This is Chapter 2 of the installment.
-Thank you! Goodbye
+Hi, Good Morning
+This is Chapter 1 of the git installment.
+Thank you!
